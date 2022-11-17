@@ -1,4 +1,4 @@
-#EXTM3U list-name="Canales Latinos 😍" list-image="https://i.ibb.co/y5WvHvw/Tvlogo.png"
+#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png" tvg-group="DEPORTES", VTV PLUS (SOLO CHROMECAST)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
